@@ -1,1 +1,10 @@
+gymnasium 
+numpy
+torch
+torch.nn 
+torch.nn.functional 
+torch.optim 
+matplotlib.pyplot
+from typing import List, Tuple
+random
 
