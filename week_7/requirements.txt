@@ -1,1 +1,6 @@
-
+gymnasium 
+numpy
+random
+from collections import defaultdict
+heapq
+matplotlib.pyplot
